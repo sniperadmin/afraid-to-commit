@@ -7,6 +7,8 @@ or followed the tutorial in their own time.
 
 Workshops
 =========
+Nasr Galal
+
 
 Pycon Zimbabwe in Harare, 24th November 2016
 ---------------------------------------------
